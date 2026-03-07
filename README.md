@@ -1,5 +1,5 @@
-#GitLecture for freshman
-##Contents
+# GitLecture for freshman
+## Contents
 * Gitとは？
 * Gitのメリット
 * 運用例
